@@ -1,3 +1,14 @@
+## 0.92.0 (2024-10-07)
+
+### Feat
+
+- Adding Colchester City Council
+
+### Fix
+
+- #639
+fix: #812
+
 ## 0.91.2 (2024-10-05)
 
 ### Fix
